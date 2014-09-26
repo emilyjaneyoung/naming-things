@@ -6,13 +6,13 @@ Naming things is somethimes more difficult than building an entire site. It's ri
 
 ## Layout
 
-.site-header {}
-.site-side {}
-.site-footer {}
-.site-logo {}
-.site-graphic {}
-.container {}
-.wrapper {}
+  .site-header {}
+  .site-side {}
+  .site-footer {}
+  .site-logo {}
+  .site-graphic {}
+  .container {}
+  .wrapper {}
 
 ## Utilities
 
