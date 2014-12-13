@@ -28,6 +28,7 @@
 .secondary-nav {}
 .tertiary-nav {}
 .billboard {}
+.callout{}
 .flag {}
 .hero {}
 .table {}
@@ -51,6 +52,7 @@
 .btn {}
 .carousel {}
 .media {}
+.thumbnail{}
 
 // =========================================================================
 // Module Children
