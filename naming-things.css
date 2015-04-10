@@ -6,6 +6,8 @@
   .site-footer {}
   .site-logo {}
   .site-graphic {}
+  .layout-side {}
+  .layout-content {}
   .container {}
   .wrapper {}
 
@@ -43,6 +45,8 @@
 .tabs {}
 .logo-list {}
 .list {}
+.list-view {}
+.tab {}
 .caption {}
 .copyright {}
 .heading {}
@@ -52,7 +56,7 @@
 .btn {}
 .carousel {}
 .media {}
-.thumbnail{}
+.thumbnail {}
 
 // =========================================================================
 // Module Children
@@ -64,6 +68,7 @@ __head {}
 __body {}
 __field {}
 __title {}
+__list {}
 
 // =========================================================================
 // Modifiers
