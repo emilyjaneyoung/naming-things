@@ -1,8 +1,12 @@
-Naming-Things
+Naming Things
 =============
 
+There are only two hard things in Computer Science: cache invalidation and naming things.
+
+-- Phil Karlton
+
 ## What is this?
-Naming things is sometimes more difficult than building a website. It's ridiculous and time consuming. This repo is a small collection of names used around the web that I can take a look at when I am stuck for a name!
+Naming stuff is hard. This repo is a small collection of names used around the web to speed up this time consuming part of web development.
 
 ### Credits
 The entire internet.
