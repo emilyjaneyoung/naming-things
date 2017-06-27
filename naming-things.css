@@ -13,6 +13,7 @@
 .wrapper {}
 .row {}
 
+
 // =========================================================================
 // Utilities
 // =========================================================================
@@ -40,6 +41,7 @@
 
 .account-bar {}
 .accordion {}
+.badge {}
 .billboard {}
 .brand-bar {}
 .breadcrumbs {}
@@ -61,6 +63,7 @@
 .hero {}
 .highlight {}
 .list {}
+.list-group {}
 .list-view {}
 .logo-list {}
 .mast-head {}
